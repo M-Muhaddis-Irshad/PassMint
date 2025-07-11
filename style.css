@@ -4,9 +4,6 @@ body {
 }
 
 .body {
-    /* background-image: radial-gradient(blue); */
-    /* background-color: rgb(20, 77, 142); */
-    /* background-image: linear-gradient(blue, rgb(9, 9, 104)); */
     background-color: blue;
 }
 
@@ -33,12 +30,10 @@ body {
     background-color: rgb(1, 49, 105);
     border-radius: 28px;
     border: 1px solid rgb(0, 60, 128);
-    /* border: ; */
     margin: auto;
     padding: 20px;
     width: 330px;
     box-shadow: -2px 3px 8px 1px rgb(1, 49, 105);
-    /* border-left: 1px solid rgb(0, 40, 85); */
 }
 
 .heading {
