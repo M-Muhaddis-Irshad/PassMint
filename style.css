@@ -1,0 +1,114 @@
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+.body {
+    /* background-image: radial-gradient(blue); */
+    /* background-color: rgb(20, 77, 142); */
+    /* background-image: linear-gradient(blue, rgb(9, 9, 104)); */
+    background-color: blue;
+}
+
+/* Nav css start's */
+
+.navbar {
+    margin: 5px 0px;
+    border-radius: 5px;
+}
+
+.navbar-brand {
+    font-size: x-large !important;
+}
+
+.nav-link {
+    color: whitesmoke !important;
+}
+
+/* Nav css end's */
+
+/* body css start's */
+
+.body_main_div {
+    background-color: rgb(1, 49, 105);
+    border-radius: 28px;
+    border: 1px solid rgb(0, 60, 128);
+    /* border: ; */
+    margin: auto;
+    padding: 20px;
+    width: 330px;
+    box-shadow: -2px 3px 8px 1px rgb(1, 49, 105);
+    /* border-left: 1px solid rgb(0, 40, 85); */
+}
+
+.heading {
+    color: antiquewhite;
+}
+
+.control_pannel label span {
+    color: white;
+    font-size: 100%;
+    margin: 0px 0px 0px 10px;
+    padding: 0px 170px 0px 0px;
+}
+
+.input_range {
+    width: 252px;
+    background-color: black;
+    cursor: pointer;
+}
+
+.control_pannel {
+    display: flex;
+    flex-direction: column;
+}
+
+.control_pannel .labels {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin: auto;
+    color: antiquewhite;
+    font-size: 115%;
+}
+
+.control_pannel .labels label {
+    cursor: pointer;
+}
+
+input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    margin-right: 15px;
+    border-radius: 20px;
+    accent-color: rgb(19, 69, 130);
+    cursor: pointer;
+}
+
+.gnrt_btn {
+    color: white;
+    background-color: rgb(32, 110, 201);
+    margin: auto;
+    padding: 8px;
+    width: 250px;
+    border-radius: 5px;
+    font-size: 115%;
+    cursor: pointer;
+}
+
+input[type=text] {
+    color: white;
+    background: rgb(0, 37, 84);
+    border: 1px solid rgb(0, 85, 183);
+    border-radius: 5px;
+    padding: 3px 0px 4px 6px;
+    height: 32px;
+}
+
+.fa-copy {
+    color: white;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+/* body css end's */
