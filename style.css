@@ -4,7 +4,7 @@ body {
 }
 
 .body {
-    background: rgb(0, 37, 84);
+    background-color: rgb(32, 110, 201);
 }
 
 
@@ -30,7 +30,7 @@ body {
 .body_main_div {
     background-color: rgb(1, 49, 105);
     border-radius: 28px;
-    border: 1px solid rgb(0, 60, 128);
+    border: 1px solid rgb(0, 85, 183);
     margin: auto;
     padding: 20px;
     width: 330px;
